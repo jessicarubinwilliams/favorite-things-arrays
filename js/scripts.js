@@ -25,6 +25,5 @@ $(document).ready(function(){
 
     $('div#output').show();
   });
-
 });
 
