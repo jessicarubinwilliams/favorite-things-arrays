@@ -1,17 +1,22 @@
+# _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._
+
 # _Favorite Things Rearranger_
 
 #### _Web-based app to output users input in a new order_
 
-#### By _**Jessica R. Williams**_
+#### By _** Mikey Kriegel and Jessica R. Williams**_
 
 ## Technologies Used
 
 * _JavaScript_
+* _jQuery Library_
 * _HTML_
 * _CSS_
+* _Bootstrap Library_
 
 ## Description
 
+_This is a practice assignment for Epicodus. The lesson may be found [here](https://www.learnhowtoprogram.com/introduction-to-programming/arrays-and-looping/practice-javascript-arrays)._
 _The user enters five of their favorite things into a form and upon submission the app outputs three of them in a different order._
 
 ## Setup/Installation Requirements
@@ -30,4 +35,4 @@ _The user enters five of their favorite things into a form and upon submission t
 *[MIT](https://choosealicense.com/licenses/mit/)*
 Copyright (c) **_2021 Jessica R Williams and Mikey Kriegel_**
 ## Contact Information
-**_Jessica R Williams (mailto:jessicarubinwilliams@gmail.com) Mikey Kriegel (mailto:mikkrieg@gmail.com)_**
+**_Jessica R Williams [mailto](mailto:jessicarubinwilliams@gmail.com) Mikey Kriegel [mailto](mailto:mikkrieg@gmail.com)_**
